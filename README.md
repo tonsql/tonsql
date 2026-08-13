@@ -1,16 +1,36 @@
-## Hi there 👋
+Hello! My nickname is Ton.
+💻 Web Developer
 
-<!--
-**tonsql/tonsql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies
 
-Here are some ideas to get you started:
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+* JavaScript
+* Node.js
+* SQL
+* REST APIs
+
+## 💻 Projects
+
+### 🌐 Business Website
+
+Professional website developed with HTML, CSS, and JavaScript.
+
+### 🛒 Ordering System
+
+Ordering system integrated with WhatsApp.
+
+### 🔐 Admin System
+
+Administrative dashboard built using Supabase.
+
+## 📫 Contact
+
+GitHub: @tonsql
